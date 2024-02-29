@@ -46,6 +46,8 @@ His research interests lie in <strong>trustworthy NLP, large language modeling a
 
 # 📝 Preprints 
 \* indicates equal contribution.
+- **Universal Prompt Optimizer for Safe Text-to-Image Generation** [\[Paper\]](https://arxiv.org/abs/2402.10882)<br> 
+Zongyu Wu\*, **Hongcheng Gao\***, Yueze Wang, Xiang Zhang, Suhang Wang. <br>
 
 - **Evaluating the Robustness of Text-to-image Diffusion Models against Real-world Attacks** [\[Paper\]](https://arxiv.org/abs/2306.13103)<br> 
 **Hongcheng Gao**, Hao Zhang, Yinpeng Dong, Zhijie Deng. <br>
@@ -57,9 +59,9 @@ His research interests lie in <strong>trustworthy NLP, large language modeling a
 Zhijie Deng\*, **Hongcheng Gao\***, Yibo Miao, Hao Zhang. <br>
 <!-- *Under Review by **NeurIPS 2023*** -->
 
-- **DEPP: A Novel Crystal Descriptor and Application in Ionic Batteries Voltage Prediction** <br>
+<!-- - **DEPP: A Novel Crystal Descriptor and Application in Ionic Batteries Voltage Prediction** <br>
 Dongchen Jin\*, **Hongcheng Gao\***, Haoran Luo\*, Linlin He, Chao Yang, Yujie Zheng. <br>
-<!-- *Under Review by **npj Computational Materials** (Sister journal of **<font color="dd0000">Nature</font>**)* -->
+*Under Review by **npj Computational Materials** (Sister journal of **<font color="dd0000">Nature</font>**)* -->
 
 
 # 📝 Publications 
