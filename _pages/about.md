@@ -33,6 +33,7 @@ His research interests lie in <strong>trustworthy NLP, large language modeling a
 
 
 # 🔥 News
+- *2024.04*: One paper accepted to NAACL 2024.
 - *2024.01*: 🎉 One paper accepted to ICLR 2024.
 - *2023.09*: 🎉 One paper accepted to NeurIPS 2023 (D&B Track).
 - *2023.05*: 🎉 One paper accepted to ACL 2023!
@@ -46,8 +47,6 @@ His research interests lie in <strong>trustworthy NLP, large language modeling a
 
 # 📝 Preprints 
 \* indicates equal contribution.
-- **Universal Prompt Optimizer for Safe Text-to-Image Generation** [\[Paper\]](https://arxiv.org/abs/2402.10882)<br> 
-Zongyu Wu\*, **Hongcheng Gao\***, Yueze Wang, Xiang Zhang, Suhang Wang. <br>
 
 - **Evaluating the Robustness of Text-to-image Diffusion Models against Real-world Attacks** [\[Paper\]](https://arxiv.org/abs/2306.13103)<br> 
 **Hongcheng Gao**, Hao Zhang, Yinpeng Dong, Zhijie Deng. <br>
@@ -79,6 +78,10 @@ Dongchen Jin\*, **Hongcheng Gao\***, Haoran Luo\*, Linlin He, Chao Yang, Yujie Z
     </p>
 </td></tr></table> -->
 **2024**
+
+- **Universal Prompt Optimizer for Safe Text-to-Image Generation** [\[Paper\]](https://arxiv.org/abs/2402.10882)<br> 
+Zongyu Wu\*, **Hongcheng Gao\***, Yueze Wang, Xiang Zhang, Suhang Wang. <br>
+***NAACL 2024***
 
 - **Generative Pretraining in Multimodality** [\[Paper\]](https://arxiv.org/abs/2307.05222)<br> 
 Quan Sun\*, Qiying Yu\*, Yufeng Cui\*, Fan Zhang\*, Xiaosong Zhang\*, Yueze Wang, **Hongcheng Gao**, Jingjing Liu, Tiejun Huang, Xinlong Wang<br>
