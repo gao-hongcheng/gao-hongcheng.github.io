@@ -33,7 +33,7 @@ His research interests lie in <strong>trustworthy NLP, large language modeling a
 
 
 # 🔥 News
-- *2024.04*: 🎉 One paper accepted to NAACL 2024.
+- *2024.04*: One paper accepted to NAACL 2024.
 - *2024.01*: 🎉 One paper accepted to ICLR 2024.
 - *2023.09*: 🎉 One paper accepted to NeurIPS 2023 (D&B Track).
 - *2023.05*: 🎉 One paper accepted to ACL 2023!
