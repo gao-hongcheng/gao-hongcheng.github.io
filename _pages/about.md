@@ -32,6 +32,10 @@ redirect_from:
 His research interests lie in <strong>trustworthy NLP, large language modeling and multi-modal learning</strong>.<br>
 </p>
 
+<p>
+<!-- <font color='red'> Actively seeking PhD program opportunity for the Fall of 2026  ^_^ </font> -->
+</p>
+
 
 # 🔥 News
 - *2024.09*: Two papers accepted to NeurIPS 2024 with one Spotlight.
@@ -135,8 +139,10 @@ Lei Xu, Yangyi Chen, Ganqu Cui, **Hongcheng Gao**, Zhiyuan Liu.<br>
 # 💻 Projects
 
 - [RobTest](https://github.com/thunlp/RobTest): an open-source toolkit for textual model robustness evaluation .<br>
+- [Spider2-V](https://github.com/xlang-ai/Spider2-V): Spider2-V is a multimodal agent benchmark spanning across the entire data science and engineering workflow 
 - [OpenAttack](https://github.com/thunlp/OpenAttack): an open-source Python-based textual adversarial attack toolkit.<br>
 - [Emu](https://github.com/baaivision/Emu): an open multimodal generalist for both image-to-text and text-to-image tasks. <br>
+
 
 <!-- # 📄 Academic Services
 - Journey Reviews:
