@@ -33,7 +33,7 @@ His research interests lie in <strong>trustworthy NLP, large language modeling a
 </p>
 
 <p>
-<!-- <font color='red'> Actively seeking PhD program opportunity for the Fall of 2026  ^_^ </font> -->
+<font color='red'> Actively seeking PhD program opportunity for the Fall of 2026  ^_^  Please contact me if you are interested!</font>
 </p>
 
 
@@ -55,6 +55,9 @@ His research interests lie in <strong>trustworthy NLP, large language modeling a
 
 # 📝 Preprints 
 \* indicates equal contribution.
+- **Meta-Unlearning on Diffusion Models: Preventing Relearning Unlearned Concepts** [\[Paper\]](https://arxiv.org/abs/2410.12777)<br>
+**Hongcheng Gao**, Tianyu Pang, Chao Du, Taihang Hu, Zhijie Deng, Min Lin
+
 - **Is factuality decoding a free lunch for llms? evaluation on knowledge editing benchmark** [\[Paper\]](https://arxiv.org/abs/2404.00216)<br>
 Baolong Bi, Shenghua Liu, Yiwei Wang, Lingrui Mei, Junfeng Fang, **Hongcheng Gao**, Shiyu Ni, Xueqi Cheng
 
