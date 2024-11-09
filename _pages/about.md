@@ -33,7 +33,7 @@ His research interests lie in <strong>trustworthy NLP, large language modeling a
 </p>
 
 <p>
-<font color='red'> Actively seeking PhD program opportunity for the Fall of 2026  ^_^  Please contact me if you are interested!</font>
+<font color='red'> Seeking PhD opportunity for 2026 Fall ^_^  Please contact me if you are interested!</font>
 </p>
 
 
