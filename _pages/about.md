@@ -25,6 +25,7 @@ His research interests include **large reasoning models**, **AI agents** and **u
 
 
 # 🔥 News
+- *2026.06*: Two papers accepted to ICML'26.
 - *2026.03*: Invited to serve as **Area Chair** for Neurips'26 and **Senior PC Member** for CIKM'26. 
 - *2026.1*: One papers accepted to ICLR'26.
 - *2025.11*: One papers accepted to AAAI'26.
